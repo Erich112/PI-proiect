@@ -1,1 +1,2 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/p1z0_xZ_)
+Proiect la PI - Detecția și recunoașterea obiectelor
+Aplicație în Python realizată în mediul Google Collab, ce folosește modelul YOLO v8, antrenat pe un dataset custom (combinație între COCO și poze achiziționate propriu), pentru recunoașterea unor obiecte uzuale.
